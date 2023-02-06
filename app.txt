@@ -1,1 +1,2 @@
 -some application 
+|-add smth new logic in app
